@@ -6,8 +6,8 @@ import type { NextPage } from 'next';
 const Email: NextPage<{ seo: ICommon['seo'] }> = () => {
   // Ceci est à supprimer
   const seo = {
-    metaTitle: 'Accueil - NOM DU SITE',
-    metaDescription: 'Accueil',
+    metaTitle: 'QR Generator | Scan Me',
+    metaDescription: 'Best QR Generator, QR Scanner',
   };
   return (
     <main>
