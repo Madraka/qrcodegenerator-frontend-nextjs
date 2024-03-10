@@ -140,7 +140,7 @@ const QRCode = () => {
 
   return (
     <>
-      <div className={'mx-auto flex justify-center pb-5 lg:px-12'} ref={ref} />
+      <div className={'mx-auto flex justify-center pb-5 lg:px-10'} ref={ref} />
       <Details title={'Shape'}>
         <ShapesSwitcher />
       </Details>
